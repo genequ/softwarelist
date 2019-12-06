@@ -13,7 +13,7 @@
 * HiddenMe, hide/show everything on desktop by clicking
 * Pacifist, unzip pkg
 * Reeder, RSS
-* Unlox
+* Unlox, unlock Mac from your iPhone
 
 ## Win
 * Listary
